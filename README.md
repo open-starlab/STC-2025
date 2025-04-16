@@ -12,5 +12,5 @@ After running Cell 1, you will obtain both the tracking result in MOT-format .tx
 Place the tracking result .txt files and ground truth files according to the directory structure required by TrackEval in order to compute the HOTA metric.
 
 # Reference
-(https://github.com/hsiangwei0903/Deep-EIoU)
+(https://github.com/hsiangwei0903/Deep-EIoU) /n
 (https://github.com/JonathonLuiten/TrackEval)
