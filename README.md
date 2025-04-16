@@ -1,4 +1,4 @@
-# SoccerTrackChallenge_Colab
+# SoccerTrackChallenge-2025_Colab
 The stc_baseline_no_finetune.ipynb is a Baseline Colab code for the SoccerTrack Challenge 2025 (STC-2025), without fine-tuning.
 
 The code is divided into two parts: 
