@@ -29,6 +29,7 @@ After running Cell 1, you will obtain both the tracking result in MOT-format .tx
 2.Using the official HOTA code (https://github.com/JonathonLuiten/TrackEval)to evaluate the tracking results from part 1 with the ground truth using the HOTA metric.
 Place the tracking result .txt files and ground truth files according to the directory structure required by TrackEval in order to compute the HOTA metric.
 
+3.[Fine-tune baseline](https://github.com/Yinlipp/STC-2025-SoccerTrack-Challenge_Finetune)
 ## Author of the code
 - [YIN Li](https://github.com/Yinlipp)
 
