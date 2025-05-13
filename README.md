@@ -1,4 +1,5 @@
 # STC-2025: SoccerTrack Challenge 2025 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/yDrcywCs)
 
 ## Overview 
 The SoccerTrack Challenge 2025 @MMSports2025 is a competition designed to advance the tracking of soccer players in fixed-viewpoint video footage. Participants will be provided with a dataset containing match footage annotated with bounding boxes and player IDs for training.
